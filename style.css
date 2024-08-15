@@ -1,0 +1,34 @@
+.haider{
+    background-image: url(IMAGE13.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    width: auto;
+}
+.maison{
+    color: rgb(235, 20, 20);
+    text-align: center;
+    padding: 40px;
+    font-size: 50px;
+}
+.proposer{
+    background-image: url(IMAGE12.jfif);
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.maison2{
+    text-align: center;
+    padding: 50px;
+    color: white;
+    font-size: 50px;
+}
+.navbar {
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(182, 189, 189);
+    height: 60px;
+  }
+  .navbar a{
+    text-decoration: none;
+    padding: 100px 100px;
+    border-radius: 5px;
+  }
